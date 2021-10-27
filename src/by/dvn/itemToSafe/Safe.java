@@ -1,4 +1,4 @@
-package itemToSafe;
+package by.dvn.itemToSafe;
 
 public class Safe {
 	private int weight;

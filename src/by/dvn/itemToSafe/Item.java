@@ -1,4 +1,4 @@
-package itemToSafe;
+package by.dvn.itemToSafe;
 
 public class Item {
 	private String name; 

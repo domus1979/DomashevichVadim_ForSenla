@@ -8,9 +8,9 @@ import by.dvn.printNumber.PrintNumber;
 import by.dvn.sentenceParsing.SentenceParsing;
 import by.dvn.simpleMultipliers.SimpleMultipliers;
 import by.dvn.sumOfDigits.SumOfDigits;
-import itemToSafe.Item;
-import itemToSafe.ItemToSafe;
-import itemToSafe.Safe;
+import by.dvn.itemToSafe.Item;
+import by.dvn.itemToSafe.ItemToSafe;
+import by.dvn.itemToSafe.Safe;
 
 public class SenlaTask {
 

@@ -1,4 +1,4 @@
-package itemToSafe;
+package by.dvn.itemToSafe;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -52,7 +52,7 @@ public class ItemToSafe {
 
 		System.out.println("Safe volume = " + safe.getWeight());
 		System.out.println("Weight and price each item:");
-		Iterator<Item> itr = new ArrayList().iterator();
+		Iterator<Item> itr = new ArrayList<Item>().iterator();
 		for (Item item : arrItem) {
 			System.out.println(item.getName() + ": " + item.getWeight() + ", " + item.getPrice());
 		}
